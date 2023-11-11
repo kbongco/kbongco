@@ -11,6 +11,13 @@
 - Right now I am working on some projects and playing around with some back end languages/frameworks such as NestJS.
 - Outside of coding I am a competitive powerlifter, love attending anime/pop-culture conventions and love video games!
 - You can reach me via LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kathleen-bongco-11843197/)
+
+## Skills/Tools I use
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,react,angular,html,css,redux,js,py,ruby,postman,figma,rails,sass,styledcomponents,supabase,stackoverflow,vscode,vite,ts,sqlite,discord" />
+  </a>
+</p>
   
 ## Some Stats
 [![Kathleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbongco)](https://github.com/kongco/github-readme-stats)
