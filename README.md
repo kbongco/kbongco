@@ -5,7 +5,8 @@
 
 
 ## About me: 
-- My name is Kathleen (she/her) I am a career changer who was formerly a food scientist and later attended coding bootcamp to become a software engineer based in the US.
+- My name is Kathleen (she/her) I am a career changer who was formerly a food scientist and later attended coding bootcamp to become a software engineer.
+- I am based on the East Coast, specifically in the NYC metropolitan area. 
 - My experience is working in front end development creating responsive web applications and user friendly UIs using modern Javascript frameworks such as React and Angular.
 - I'm currently looking for software engineering positions working in the front end, but am also looking to expand my domain by working full stack and back end as well.
 - Right now I am working on some projects and playing around with some back end languages/frameworks such as NestJS.
